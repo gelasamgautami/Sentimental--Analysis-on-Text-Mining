@@ -3,6 +3,7 @@ Sentiment Analysis is the process of analyzing the emotions of people through wh
  Polarity- Whether the sentiment is positive or negative
  Subject-The thing that is being talked about
  Opinion Holder- The persons who expresses the opinion.
+ 
  1. Data Extraction:
  
 There are many online platform which provides you flexibility to extract data from Facebook, twitter,Youtube etc. However, we have used www.vicinitas.com to extract data from twitter and did furtheranalysis. We extracted twitter data from Gold movie and kept it in csv format for cleaning. Apart fromthis, there is many other tool available through which we can capture data from social media platform.
