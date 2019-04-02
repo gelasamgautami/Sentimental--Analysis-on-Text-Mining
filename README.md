@@ -18,11 +18,13 @@ sorted out in python.
 
 It shows the words which are mostly used in tweets. The font size of words is directly proportional to the
 number of times it is being used in tweets.
-5. Analysis
+
+5.Analysis
 
 From the above result it is clear that we have total 55% of positive tweets, 5% of negative tweets and
 38% of neutral tweets. 
-Conclusion
+
+6.Conclusion
 
 Since positive percentage is greater than negative percentage, we can say that this movie has positive
 response from the public. Though negative reviews are also there still the ratio is quite less
